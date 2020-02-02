@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.268,=D:\Мои программы\Delphi\Проект Total Control\OpenControl 0.096\OCGraph.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.304,D:\Мои программы\Delphi\Проект Total Control\OpenControl 0.095\Interpret.dproj=D:\Мои программы\Delphi\Проект Total Control\OpenControl 0.095\OpenControl.dproj</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="AIManager.pas"/>
+    <File Path="AreaManager.pas"/>
+    <File Path="ControlConsts.pas"/>
+    <File Path="Finance.pas"/>
+    <File Path="OCGraph.pas"/>
+    <File Path="OKCANCL2.pas"/>
+    <File Path="OKCANCL2.dfm"/>
+    <File Path="TimeManager.pas"/>
+    <File Path="Unit1.pas"/>
+    <File Path="Unit1.dfm"/>
+    <File Path="Unit2.pas"/>
+    <File Path="Unit2.dfm"/>
+  </ProjectSortOrder>
+</BorlandProject>
